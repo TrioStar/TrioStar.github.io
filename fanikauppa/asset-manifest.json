@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fanikauppa/static/css/main.9c1e31cb.chunk.css",
+    "main.js": "/fanikauppa/static/js/main.f2283c5a.chunk.js",
+    "main.js.map": "/fanikauppa/static/js/main.f2283c5a.chunk.js.map",
+    "runtime-main.js": "/fanikauppa/static/js/runtime-main.3f98e935.js",
+    "runtime-main.js.map": "/fanikauppa/static/js/runtime-main.3f98e935.js.map",
+    "static/js/2.b9c02ee0.chunk.js": "/fanikauppa/static/js/2.b9c02ee0.chunk.js",
+    "static/js/2.b9c02ee0.chunk.js.map": "/fanikauppa/static/js/2.b9c02ee0.chunk.js.map",
+    "static/js/3.01f1c6c5.chunk.js": "/fanikauppa/static/js/3.01f1c6c5.chunk.js",
+    "static/js/3.01f1c6c5.chunk.js.map": "/fanikauppa/static/js/3.01f1c6c5.chunk.js.map",
+    "index.html": "/fanikauppa/index.html",
+    "static/css/main.9c1e31cb.chunk.css.map": "/fanikauppa/static/css/main.9c1e31cb.chunk.css.map",
+    "static/js/2.b9c02ee0.chunk.js.LICENSE.txt": "/fanikauppa/static/js/2.b9c02ee0.chunk.js.LICENSE.txt",
+    "static/media/keksi.16c8bc31.jpg": "/fanikauppa/static/media/keksi.16c8bc31.jpg",
+    "static/media/mehu.18498bcb.jpg": "/fanikauppa/static/media/mehu.18498bcb.jpg",
+    "static/media/omena.5405c3bd.jpg": "/fanikauppa/static/media/omena.5405c3bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f98e935.js",
+    "static/js/2.b9c02ee0.chunk.js",
+    "static/css/main.9c1e31cb.chunk.css",
+    "static/js/main.f2283c5a.chunk.js"
+  ]
+}
